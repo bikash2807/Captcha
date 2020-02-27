@@ -23,7 +23,7 @@
    </tr>
   </table>
   <br>
-  <img src="http://localhost:9090/captchaTest-0.0.1-SNAPSHOT/CaptchaServlet"> 
+  <img src="http://0.0.0.0:8080/captchaTest-0.0.1-SNAPSHOT/CaptchaServlet"> 
   <br><br>
   <input type="submit" value="submit">
  </form>
